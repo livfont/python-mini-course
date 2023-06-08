@@ -46,7 +46,8 @@ Welcome to Introduction to Python. This is the repository for Python mini-course
 |  |  |
 | ------------- | ------------- |
 |Class Repository|https://github.com/python-mini-course/python-mini-course.git|
-|Daily Presentation|https://mebergen-my.sharepoint.com/:f:/g/personal/lnam_me_bergen_edu/Eq1HOiuQyElDooeQ3uhCQd8BJ4qi1eF3221sBxgLm_Y-rA?e=37CouU|
+|Google Drive|https://drive.google.com/drive/folders/1Ar3fIPh9pUcBqGzvK1PriUtSu2PK8zgd?usp=sharing|
+|Presentation|https://mebergen-my.sharepoint.com/:f:/g/personal/lnam_me_bergen_edu/Eq1HOiuQyElDooeQ3uhCQd8BJ4qi1eF3221sBxgLm_Y-rA?e=37CouU|
 |Class Discord Channel| https://discord.gg/h6ggSdd2|
 
 <br/>
