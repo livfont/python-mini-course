@@ -1,0 +1,4 @@
+orange,4.12
+goldFish,50.50
+cookies,700.01
+chip,5.00
