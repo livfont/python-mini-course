@@ -3,6 +3,12 @@
 
 import random
 
+def userWon():
+  print("The user won!")
+
+def computerWon():
+  print("The computer won!")
+
 def whatIsIt(num):
   if num < 0 or num > 2: 
     return "You gave a wrong number! Number has to be between 0 and 2"
@@ -36,19 +42,19 @@ def rockScissorsPaper():
   else: 
     if user_choice == "Rock":
       if computer_choice == "Scissors":
-        print("The user won!")
+        userWon()
       if computer_choice == "Paper":
-        print("The computer won!")
+        computerWon()
     elif user_choice == "Scissors":
       if computer_choice == "Paper":
-        print("The user won!")
+        userWon()
       if computer_choice == "Rock":
-        print("The computer won!")
+        computerWon()
     elif user_choice == "Paper":
       if computer_choice == "Rock":
-        print("THe user won!")
+        userWon()
       if computer_choice == "Scissors":
-        print("The computer won!")
+        computerWon()
 
 
   #print random computer response
